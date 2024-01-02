@@ -6,8 +6,7 @@ Welcome to the SVM Examples Repository! This project provides clear examples of 
 
 SVM is a powerful machine learning algorithm widely used for classification and regression tasks. This repository serves as an educational resource for understanding SVM concepts and their practical implementations. The examples are designed to be simple, yet informative, making it easy for both beginners and experienced users to grasp SVM's functionality.
 
-## Table of ContentsCertainly! Here's the revised version without the license information and the installation dependencies part:
-
+## Table of ContentsCertainly! 
 1. [SVM Kernels](SVM_Kernels.ipynb): Introduction to SVM with different kernels - Linear, Polynomial, RBF, and Sigmoid. Synthetic data is generated for visualization, and basic SVM usage is demonstrated.
 
 2. [Support Vector Regression (SVR)](SVR.ipynb): Focuses on Support Vector Regression using a linear kernel. The example includes data generation, model training, and hyperparameter tuning using GridSearchCV.
